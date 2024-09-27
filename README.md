@@ -1,6 +1,6 @@
 # Integrated Value Guidance
 
-Code release for the paper "Inference-Time Language Model Alignment via Integrated Value Guidance".
+Code release for the paper [Inference-Time Language Model Alignment via Integrated Value Guidance](https://arxiv.org/abs/2409.17819).
 
 In this work, we implement chunk-level beam search and emulator fine-tuning by extending the `GenerationMixin` class. We provide the code and details for three specific tasks: controlled sentiment generation, summarization, and instruction following.
 
@@ -68,4 +68,3 @@ We implement the instruction-following task using the Ultrafeedback dataset. The
 
 ### Golden Reward Model:
 - GPT-4
-
