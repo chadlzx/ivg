@@ -1,0 +1,6 @@
+transformers==4.34.1
+bitsandbytes==0.41.1
+accelerate==0.23.0
+datasets==2.14.5
+sentencepiece==0.1.99
+tyro==0.6.0
